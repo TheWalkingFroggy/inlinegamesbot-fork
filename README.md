@@ -26,7 +26,7 @@ The bot is currently hosted at [DOM Cloud](https://domcloud.co).
   <summary>Instructions</summary>
 
 Use this button to begin deployment:  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jacklul/inlinegamesbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheWalkingFroggy/inlinegamesbot-fork)
 
 Assuming everything was entered correctly your bot should be instantly working - if it's not you should try running `php bin/console post-install` inside the app.
 
